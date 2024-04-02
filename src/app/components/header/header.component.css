@@ -1,0 +1,14 @@
+nav > a {
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(242, 238, 246);
+    border-radius: 5px;
+}
+
+nav > a.active {
+    background-color: rgb(29, 16, 30);
+}
+
+.header-row {
+    width: 100%;
+}
